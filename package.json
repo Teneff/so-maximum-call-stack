@@ -1,0 +1,21 @@
+{
+  "name": "so-maximum-call-stack",
+  "version": "1.0.0",
+  "main": "src/myVm.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": "https://github.com/Teneff/so-maximum-call-stack.git",
+  "author": "Stefan Teneff <st.teneff@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@babel/core": "^7.7.5",
+    "@babel/preset-env": "^7.7.6",
+    "@types/jest": "^24.0.23",
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "knockout": "^3.5.1"
+  }
+}
